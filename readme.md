@@ -30,14 +30,16 @@ npm run start
 - Ingredients can be added/removed to/from the shopping list.
 
 ## Screenshots
-![Enter your query in the Search Bar!]()
+![search](https://github.com/Sujitroy98/forkify-web-app/assets/115344822/22cc3297-860e-480c-836e-cd0eb7ac3f4d)
+
 Enter your query in the Search Bar!  
 
-![Choose from a variety of recipes to see a brief overview!]()
+![results](https://github.com/Sujitroy98/forkify-web-app/assets/115344822/63132560-5bbd-42b4-ba64-c69a335f84f1)
+
 Choose from a variety of recipes to get a brief overview of the recipe!  
 
-![Change serving size and Bookmark the recipe]()
-Change serving size and bookmark the recipe 
+![bookmark](https://github.com/Sujitroy98/forkify-web-app/assets/115344822/3497703d-86e9-45c2-b666-1bef7c2b0f6e)
+
 
 ## Limitations
 * There are only a limited number of queries that can be searched for - [Possible searches](http://forkify-api.herokuapp.com/phrases.html) 
