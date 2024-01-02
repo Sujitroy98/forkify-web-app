@@ -1,6 +1,6 @@
 # Forkify - Recipe application with custom recipe uploads 🍜🍣
 
-#### Date of completion: 23rd May 2020
+#### Date of completion: 31st dec 2023
 
 [https://forkify-roysujit.netlify.app/](https://forkify-roysujit.netlify.app/)
 
